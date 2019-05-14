@@ -1,0 +1,10 @@
+﻿  source.cpp
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(59): warning C4018: “<=”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(62): warning C4018: “>=”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(75): warning C4018: “>”: 有符号/无符号不匹配
+d:\c & c++ projects\algorithm-excercises\task arrangement\task arrangement\source.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+  Task Arrangement.vcxproj -> D:\C & C++ projects\Algorithm-Excercises\Task Arrangement\Debug\Task Arrangement.exe
